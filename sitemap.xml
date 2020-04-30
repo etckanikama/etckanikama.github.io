@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://etckanikama.github.io/tag/demo/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/project/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/tags/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/project/remoto-controler/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/posts/using-hugo/</loc>
+    <lastmod>2020-04-26T15:38:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/post/</loc>
+    <lastmod>2020-04-26T15:38:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/author/hirayama-daiki/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/talk/</loc>
+  </url>
+  
+</urlset>
