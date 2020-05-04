@@ -13,6 +13,16 @@
     </image>
     
     <item>
+      <title>hugoの記録</title>
+      <link>https://etckanikama.github.io/project/hugo-sample/</link>
+      <pubDate>Sun, 26 Apr 2020 20:25:51 +0900</pubDate>
+      <guid>https://etckanikama.github.io/project/hugo-sample/</guid>
+      <description>&lt;h3 id=&#34;本サイトの記録&#34;&gt;本サイトの記録&lt;/h3&gt;
+&lt;p&gt;こちらのサイトを作るときに苦労したことまとめたいと思います。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ラジコン制作過程</title>
       <link>https://etckanikama.github.io/project/remoto-controler/</link>
       <pubDate>Sun, 26 Apr 2020 20:25:51 +0900</pubDate>

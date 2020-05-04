@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://etckanikama.github.io/project/hugo-sample/</loc>
+    <lastmod>2020-04-26T20:25:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://etckanikama.github.io/project/</loc>
     <lastmod>2020-04-26T20:25:51+09:00</lastmod>
   </url>
@@ -46,10 +51,6 @@
   </url>
   
   <url>
-    <loc>https://etckanikama.github.io/author/hirayama-daiki/</loc>
-  </url>
-  
-  <url>
     <loc>https://etckanikama.github.io/publication_types/</loc>
   </url>
   
@@ -59,6 +60,10 @@
   
   <url>
     <loc>https://etckanikama.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://etckanikama.github.io/author/%E3%81%8B%E3%81%AB%E3%81%8B%E3%81%BE/</loc>
   </url>
   
 </urlset>
